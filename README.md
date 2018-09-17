@@ -5,7 +5,7 @@ Repository for the course on **Haskell** and **Functional Programming**.
 
 1. Install [Haskell Platform](https://www.haskell.org/platform) 
 
-2. Run code:  ` ghci `*`file_name `*
+2. Run code  ` ghci `*`file_name `*
 
 # License
 MIT
