@@ -1,4 +1,4 @@
-# haskell_course
+# This repository
 Repository for the course on **Haskell** and **Functional Programming**. 
 
 # How to run
@@ -6,3 +6,6 @@ Repository for the course on **Haskell** and **Functional Programming**.
 Install Haskell Platform:  ` https://www.haskell.org/platform `
 
 Use GHCi to run code:  ` ghci `*`file_name `*
+
+# License
+MIT
